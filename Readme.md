@@ -1,6 +1,24 @@
-# Stratum AI — Frontend
+# Stratum AI
 
 React frontend for Stratum AI — enterprise AI assistant for CRM platforms. Features a visual flow builder (React Flow) for connecting integrations, and a ChatGPT-style interface for natural language CRM queries.
+
+![Stratum AI landing page](./screenshots/landing-page.png)
+
+---
+
+## Screenshots
+
+**AI Chat** — natural language queries against live CRM data
+![AI Chat](./screenshots/ai-chat.png)
+
+**Dashboard** — pipeline KPIs, stage breakdown, and closing-this-month activity
+![Dashboard](./screenshots/dashboard.png)
+
+**Integration Flow** — visual canvas for connecting CRM nodes
+![Integration Flow](./screenshots/integration-flow.png)
+
+**Connect CRM** — credential setup modal for Salesforce, HubSpot, ServiceNow
+![Connect CRM modal](./screenshots/connect-crm-modal.png)
 
 ---
 
